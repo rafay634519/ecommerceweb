@@ -42,14 +42,6 @@ In addition to the main features and functions, I also want to implement the fol
 - Spring RESTful Web services: Building RESTful APIs. The project provides RESTful APIs for various functionalities, allowing integration with other systems or external applications.
 - Bootstrap 4, HTML5, and jQuery 3: Front-end development. The project utilizes Bootstrap, HTML5, and jQuery to create a responsive and user-friendly interface for the e-commerce website.
 
-## Acknowledgements
-
-I appreciate Nam Ha Minh's guidance and resources during this project. His tutorials significantly aided our development. For more on Spring Boot and e-commerce, visit his Github and Youtube channel.
-
-- Nam Ha Minh's GitHub: [Github](https://github.com/namhaminh)
-- Nam Ha Minh's YouTube Channel: [Youtube](https://www.youtube.com/@CodeJava)
-
-Thanks for your contributions, Nam Ha Minh!
 
 
 
